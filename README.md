@@ -46,7 +46,8 @@ This project is licensed under the [MIT License](LICENSE)
 
 ### Contact
 For any questions or feedback, please contact:
-- Sanskar Purohit
-- sanskar.purohit946@gmail.com
+- Ranjeet kumar mehta
+- ranjeetkumarmehta14418@gmail.com
+- watsaap number-8340615057
 
 Feel free to explore and contribute to the project. Happy coding!
